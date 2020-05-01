@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "start": "node src/index.js",
+        "dev": "nodemon src/index.js",
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^25.5.3"
+    },
+    "dependencies": {
+        "@types/jest": "^25.2.1"
+    }
+}
