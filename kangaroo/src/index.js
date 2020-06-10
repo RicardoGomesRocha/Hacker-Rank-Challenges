@@ -8,7 +8,7 @@ function kangaroo(x1, v1, x2, v2) {
         return "NO"
     }
 
-    while (x1 <= 10000 && x2 <= 10000) {
+    while (x1 <= x2) {
         if (x1 === x2) {
             return "YES";
         }
@@ -23,7 +23,8 @@ function meetProblemConstrains(x1, v1, x2, v2) {
         x1 <= 10000 && x1 >= 0 &&
         x2 <= 10000 && x2 >= 0 &&
         v1 <= 10000 && v1 >= 1 &&
-        v2 <= 10000 && v2 >= 1;
+        v2 <= 10000 && v2 >= 1 &&
+        v1 > v2;
 }
 
 

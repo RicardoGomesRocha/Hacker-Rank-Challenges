@@ -20,4 +20,12 @@ describe("Kangaroo problem test suit", () => {
         expect(kangaroo(...inputData)).toEqual(outputData);
     });
 
+    it("[21 6 47 3]", () => {
+        const inputData = [21, 6, 47, 3];
+        const outputData = "NO";
+        expect(kangaroo(...inputData)).toEqual(outputData);
+    });
+
+
+
 });
