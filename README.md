@@ -1,6 +1,6 @@
-# HackerRank problem-solving solutions
+# HackerRank problem-solving solutions ✅
 
-This project will hold [HankerRank](https://www.hackerrank.com/) rank solutions. Hanker rank is a nice place to practice __problem-solving capabilities in order to maintain my mind sharp__.
+This project will hold [HankerRank](https://www.hackerrank.com/) solutions. Hanker rank is a nice place to practice __problem-solving capabilities in order to maintain my mind sharp__.
 
 A more formal definition for what HackerRank is:
 
@@ -8,7 +8,7 @@ A more formal definition for what HackerRank is:
 
 If you want to know more about my HackerRack achievements, check out my profile [here](https://www.hackerrank.com/rocha?hr_r=1).
 
-## Folder Structure
+## 📁 Folder Structure
 
 For each problem and respective solution, there is one  folder containing the solution for a specific HarckerRank problem, were:
 
