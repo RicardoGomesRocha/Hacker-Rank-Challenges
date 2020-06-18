@@ -1,6 +1,6 @@
 # HackerRank problem-solving solutions ✅
 
-This project will hold [HankerRank](https://www.hackerrank.com/) solutions. Hanker rank is a nice place to practice __problem-solving capabilities in order to maintain my mind sharp__.
+This project contains a set of [HankerRank](https://www.hackerrank.com/) solutions. Hanker rank is a nice place to practice __problem-solving capabilities, maintaining my mind sharp__.
 
 A more formal definition for what HackerRank is:
 
@@ -10,8 +10,8 @@ If you want to know more about my HackerRack achievements, check out my profile 
 
 ## 📁 Folder Structure
 
-For each problem and respective solution, there is one  folder containing the solution for a specific HarckerRank problem, were:
+For each problem and respective solution, there is one  folder containing the solution for a specific HackerRank problem, were:
 
-- `README.md` file exposing the problem and explaining how to run the application as well a link to the HackerRank problem;
-- `index.js` file containing the solution;
-- `index.spec.js` file containing a suit of tests in order to verify the solution.
+- `README.md` file describes the problem and explains how to run the application. Also, provides a link to the HackerRank problem;
+- `index.js` file containing the solution code;
+- `index.spec.js` file containing a suit of tests in order to verify the solution codified.
